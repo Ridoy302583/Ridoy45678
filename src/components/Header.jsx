@@ -4,7 +4,7 @@ import { FiMenu } from 'react-icons/fi';
 const Header = () => {
   return (
     <header className="py-4 px-6 md:px-12 flex justify-between items-center">
-      <div className="text-2xl font-bold">StartMotion</div>
+      <div className="text-2xl font-bold">StartMotion by Ridoy</div>
       <nav className="hidden md:flex space-x-6">
         <a href="#" className="hover:text-blue-400 transition-colors">Home</a>
         <a href="#" className="hover:text-blue-400 transition-colors">Features</a>
